@@ -1,0 +1,7 @@
+*.biprivatekey
+*.dll
+*.exe
+*.pbo
+.hemtt/local
+keys/*
+releases/*

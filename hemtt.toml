@@ -1,0 +1,5 @@
+name = "Anrop Jbad Legacy Compat"
+prefix = "anrop_jbad_legacy_compat"
+author = "Anrop"
+files = ["mod.cpp"]
+version = "1.0.0"
