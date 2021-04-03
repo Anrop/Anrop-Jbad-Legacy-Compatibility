@@ -36,6 +36,7 @@ class CfgPatches
 	LEGACY_CLASS(flowers);
 	LEGACY_CLASS(generalstore);
 	LEGACY_CLASS(hangar_2);
+	LEGACY_CLASS(hanger);
 	LEGACY_CLASS(ind);
 	LEGACY_CLASS(ind_coltan_mine);
 	LEGACY_CLASS(ind_conveyer);
