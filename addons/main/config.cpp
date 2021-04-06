@@ -31,9 +31,12 @@ class CfgPatches
 	LEGACY_CLASS(bridge_wood);
 	LEGACY_CLASS(cargo_cont);
 	LEGACY_CLASS(case_d);
+	LEGACY_CLASS(cat_dumper);
 	LEGACY_CLASS(ch_office_b);
+	LEGACY_CLASS(constructioncrane);
 	LEGACY_CLASS(fences);
 	LEGACY_CLASS(flowers);
+	LEGACY_CLASS(forklift);
 	LEGACY_CLASS(generalstore);
 	LEGACY_CLASS(hangar_2);
 	LEGACY_CLASS(hanger);
