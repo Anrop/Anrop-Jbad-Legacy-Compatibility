@@ -53,6 +53,7 @@ class CfgPatches
 	LEGACY_CLASS(kitchen_table_a);
 	LEGACY_CLASS(lobby_chair);
 	LEGACY_CLASS(lobby_table);
+	LEGACY_CLASS(metalcrate);
 	LEGACY_CLASS(mil);
 	LEGACY_CLASS(misc_beds);
 	LEGACY_CLASS(misc_breadoven);
